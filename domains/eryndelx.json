@@ -1,0 +1,11 @@
+{
+  "description": "My Raspberry Pi site",
+  "repo": "",
+  "owner": {
+    "username": "Eryndelx",
+    "email": "timlolpkn@yahoo.com"
+  },
+  "record": {
+    "A": ["31.150.25.96"]
+  }
+}
